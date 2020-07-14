@@ -1,5 +1,5 @@
 ---
-- src: https://github.com/owncloud-ansible/mariadb 
+- src: https://github.com/owncloud-ansible/mariadb
   scm: git
   version: master
 
